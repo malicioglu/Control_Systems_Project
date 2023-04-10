@@ -1,4 +1,4 @@
-# Control_Systems_Project#
+# Control_Systems_Project
 It is the control project of a 3-wheeled system that finds the ball and follows it.
 
 Black and white image is processed with ESP32 Cam.  
